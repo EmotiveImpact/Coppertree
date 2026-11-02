@@ -1,0 +1,449 @@
+{
+  "schema_version": "0.1",
+  "updated": "2026-11-02",
+  "project_name": "Copper Tree (working)",
+  "status_note": "A confirmed name does not confirm every attribute or relationship. Graph events are proposed plot events, not published canon.",
+  "nodes": [
+    {
+      "id": "char:amara",
+      "type": "character",
+      "label": "Amara",
+      "status": "provisional"
+    },
+    {
+      "id": "char:kofi",
+      "type": "character",
+      "label": "Kofi",
+      "status": "provisional"
+    },
+    {
+      "id": "char:zuri",
+      "type": "character",
+      "label": "Zuri",
+      "status": "confirmed_name"
+    },
+    {
+      "id": "char:eli",
+      "type": "character",
+      "label": "Eli",
+      "status": "provisional"
+    },
+    {
+      "id": "char:nia",
+      "type": "character",
+      "label": "Nia",
+      "status": "provisional"
+    },
+    {
+      "id": "char:tayo",
+      "type": "character",
+      "label": "Tayo",
+      "status": "provisional"
+    },
+    {
+      "id": "place:neighbourhood",
+      "type": "place",
+      "label": "Copper Tree",
+      "status": "provisional",
+      "description": "Fictional London neighbourhood."
+    },
+    {
+      "id": "place:garden",
+      "type": "place",
+      "label": "Copper Tree Garden",
+      "status": "provisional",
+      "description": "Copper beech, vegetable beds, pond and an old shed."
+    },
+    {
+      "id": "place:lookout",
+      "type": "place",
+      "label": "The Lookout",
+      "status": "provisional",
+      "description": "Proposed clubhouse made from the garden shed during book 1; six mismatched seats, discovery shelf, biscuit tin and growing map."
+    },
+    {
+      "id": "place:arches",
+      "type": "place",
+      "label": "The Arches",
+      "status": "provisional",
+      "description": "Small businesses beneath the railway, including the repair workshop."
+    },
+    {
+      "id": "place:market",
+      "type": "place",
+      "label": "Saturday Market",
+      "status": "provisional",
+      "description": "Food, flowers, fabrics and second-hand finds."
+    },
+    {
+      "id": "place:library",
+      "type": "place",
+      "label": "Copper Tree Library",
+      "status": "provisional",
+      "description": "Books, rainy-day refuge and local-history cupboard."
+    },
+    {
+      "id": "place:rec",
+      "type": "place",
+      "label": "The Rec",
+      "status": "provisional",
+      "description": "Football, scooters and puddles."
+    },
+    {
+      "id": "book:map",
+      "type": "book",
+      "label": "The Map Beneath the Sunflowers",
+      "status": "provisional"
+    },
+    {
+      "id": "book:zuri",
+      "type": "book",
+      "label": "Zuri and the Footprints After Rain",
+      "status": "provisional"
+    },
+    {
+      "id": "book:kofi",
+      "type": "book",
+      "label": "Kofi and the Almost-Perfect Machine",
+      "status": "provisional"
+    },
+    {
+      "id": "book:amara",
+      "type": "book",
+      "label": "Amara and the Unfinished Wall",
+      "status": "provisional"
+    },
+    {
+      "id": "book:eli",
+      "type": "book",
+      "label": "Eli and the Game Nobody Knew",
+      "status": "provisional"
+    },
+    {
+      "id": "book:nia",
+      "type": "book",
+      "label": "Nia and the Very Loud Saturday",
+      "status": "provisional"
+    },
+    {
+      "id": "book:tayo",
+      "type": "book",
+      "label": "Tayo and the Night of No Stars",
+      "status": "provisional"
+    },
+    {
+      "id": "book:crew2",
+      "type": "book",
+      "label": "Second crew adventure",
+      "status": "provisional"
+    },
+    {
+      "id": "adult:bennett",
+      "type": "adult",
+      "label": "Mrs Bennett",
+      "status": "provisional"
+    },
+    {
+      "id": "adult:deji",
+      "type": "adult",
+      "label": "Uncle Deji",
+      "status": "provisional"
+    },
+    {
+      "id": "adult:rahman",
+      "type": "adult",
+      "label": "Ms Rahman",
+      "status": "provisional"
+    },
+    {
+      "id": "adult:leon",
+      "type": "adult",
+      "label": "Grandad Leon",
+      "status": "provisional"
+    },
+    {
+      "id": "animal:crumpet",
+      "type": "animal",
+      "label": "Crumpet",
+      "status": "provisional"
+    },
+    {
+      "id": "object:tin",
+      "type": "object",
+      "label": "Map tin",
+      "status": "provisional"
+    },
+    {
+      "id": "object:map",
+      "type": "object",
+      "label": "Unfinished neighbourhood map",
+      "status": "provisional"
+    },
+    {
+      "id": "asset:cast01",
+      "type": "artwork",
+      "label": "Initial cast concept",
+      "status": "existing",
+      "naming_note": "Tayo labelled THEO"
+    },
+    {
+      "id": "event:discovery",
+      "type": "story_event",
+      "label": "Zuri discovers tin",
+      "status": "provisional",
+      "sequence": 1
+    },
+    {
+      "id": "event:setback",
+      "type": "story_event",
+      "label": "Crew encounters setback",
+      "status": "provisional",
+      "sequence": 2
+    },
+    {
+      "id": "event:restoration",
+      "type": "story_event",
+      "label": "Community restores gathering place",
+      "status": "provisional",
+      "sequence": 3
+    },
+    {
+      "id": "event:clubhouse",
+      "type": "story_event",
+      "label": "Shed becomes The Lookout",
+      "status": "provisional",
+      "sequence": 4
+    },
+    {
+      "id": "event:celebration",
+      "type": "story_event",
+      "label": "Neighbourhood celebrates",
+      "status": "provisional",
+      "sequence": 5
+    }
+  ],
+  "edges": [
+    {
+      "source": "char:amara",
+      "relation": "lives_in",
+      "target": "place:neighbourhood",
+      "status": "provisional"
+    },
+    {
+      "source": "char:amara",
+      "relation": "appears_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:cast01",
+      "relation": "depicts",
+      "target": "char:amara",
+      "status": "provisional"
+    },
+    {
+      "source": "char:amara",
+      "relation": "leads",
+      "target": "book:amara",
+      "status": "provisional"
+    },
+    {
+      "source": "char:kofi",
+      "relation": "lives_in",
+      "target": "place:neighbourhood",
+      "status": "provisional"
+    },
+    {
+      "source": "char:kofi",
+      "relation": "appears_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:cast01",
+      "relation": "depicts",
+      "target": "char:kofi",
+      "status": "provisional"
+    },
+    {
+      "source": "char:kofi",
+      "relation": "leads",
+      "target": "book:kofi",
+      "status": "provisional"
+    },
+    {
+      "source": "char:zuri",
+      "relation": "lives_in",
+      "target": "place:neighbourhood",
+      "status": "provisional"
+    },
+    {
+      "source": "char:zuri",
+      "relation": "appears_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:cast01",
+      "relation": "depicts",
+      "target": "char:zuri",
+      "status": "provisional"
+    },
+    {
+      "source": "char:eli",
+      "relation": "lives_in",
+      "target": "place:neighbourhood",
+      "status": "provisional"
+    },
+    {
+      "source": "char:eli",
+      "relation": "appears_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:cast01",
+      "relation": "depicts",
+      "target": "char:eli",
+      "status": "provisional"
+    },
+    {
+      "source": "char:eli",
+      "relation": "leads",
+      "target": "book:eli",
+      "status": "provisional"
+    },
+    {
+      "source": "char:nia",
+      "relation": "lives_in",
+      "target": "place:neighbourhood",
+      "status": "provisional"
+    },
+    {
+      "source": "char:nia",
+      "relation": "appears_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:cast01",
+      "relation": "depicts",
+      "target": "char:nia",
+      "status": "provisional"
+    },
+    {
+      "source": "char:nia",
+      "relation": "leads",
+      "target": "book:nia",
+      "status": "provisional"
+    },
+    {
+      "source": "char:tayo",
+      "relation": "lives_in",
+      "target": "place:neighbourhood",
+      "status": "provisional"
+    },
+    {
+      "source": "char:tayo",
+      "relation": "appears_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:cast01",
+      "relation": "depicts",
+      "target": "char:tayo",
+      "status": "provisional"
+    },
+    {
+      "source": "char:tayo",
+      "relation": "leads",
+      "target": "book:tayo",
+      "status": "provisional"
+    },
+    {
+      "source": "char:zuri",
+      "relation": "leads",
+      "target": "book:zuri",
+      "status": "provisional"
+    },
+    {
+      "source": "char:zuri",
+      "relation": "finds",
+      "target": "object:tin",
+      "status": "provisional"
+    },
+    {
+      "source": "object:tin",
+      "relation": "contains",
+      "target": "object:map",
+      "status": "provisional"
+    },
+    {
+      "source": "place:lookout",
+      "relation": "located_in",
+      "target": "place:garden",
+      "status": "provisional"
+    },
+    {
+      "source": "adult:deji",
+      "relation": "uncle_of",
+      "target": "char:kofi",
+      "status": "provisional"
+    },
+    {
+      "source": "adult:leon",
+      "relation": "grandfather_of",
+      "target": "char:eli",
+      "status": "provisional"
+    },
+    {
+      "source": "char:zuri",
+      "relation": "friendship_dynamic",
+      "target": "char:kofi",
+      "status": "provisional"
+    },
+    {
+      "source": "char:amara",
+      "relation": "friendship_dynamic",
+      "target": "char:tayo",
+      "status": "provisional"
+    },
+    {
+      "source": "char:eli",
+      "relation": "friendship_dynamic",
+      "target": "char:nia",
+      "status": "provisional"
+    },
+    {
+      "source": "event:discovery",
+      "relation": "occurs_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "event:setback",
+      "relation": "occurs_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "event:restoration",
+      "relation": "occurs_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "event:clubhouse",
+      "relation": "occurs_in",
+      "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "event:celebration",
+      "relation": "occurs_in",
+      "target": "book:map",
+      "status": "provisional"
+    }
+  ]
+}
