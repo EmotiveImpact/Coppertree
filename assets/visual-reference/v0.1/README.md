@@ -13,7 +13,7 @@ Full-colour development artwork based on the original cast concept. The sheets s
 
 ## [Neighbourhood map](neighbourhood.webp)
 
-This is a proposed layout for the period before Book 1. The railway and Arches sit along the northern edge, with Saturday Market at the west end of High Street and the library and zebra crossing at the east end. The lane between the terraces leads south to the garden and Rec gates. A footpath joins the two entrances. The garden contains the copper beech, sunflower beds, pond and old shed. The shed becomes the Lookout during Book 1. Distances and house addresses remain open.
+User feedback on 9 November 2026 accepts this as a rough reference only. The composition feels squashed and requires a more spacious redesign. This is a proposed layout for the period before Book 1. The railway and Arches sit along the northern edge, with Saturday Market at the west end of High Street and the library and zebra crossing at the east end. The lane between the terraces leads south to the garden and Rec gates. A footpath joins the two entrances. The garden contains the copper beech, sunflower beds, pond and old shed. The shed becomes the Lookout during Book 1. Distances and house addresses remain open.
 
 ## Illustration notes
 

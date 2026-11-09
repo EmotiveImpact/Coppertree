@@ -1,12 +1,12 @@
 # Series plan
-All titles are working proposals. Series title The Wonder Crew is unconfirmed and not cleared.
+The first three titles now have complete manuscript drafts. Later titles remain working proposals. Series title The Wonder Crew is unconfirmed and not cleared.
 
 ## Formats
 Character-led adventures: one child's emotional experience leads; friends can appear.
 Collective adventures: a shared challenge needs multiple perspectives.
 Participatory activity books: children add inventions, drawings and decisions.
 
-## Proposed release order
+## First collection and later order
 1. book:map — The Map Beneath the Sunflowers: collective introduction.
 2. book:zuri — Zuri and the Footprints After Rain: examine clues and change one's mind.
 3. book:kofi — Kofi and the Almost-Perfect Machine: share imperfect work.

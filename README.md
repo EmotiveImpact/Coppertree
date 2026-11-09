@@ -1,8 +1,8 @@
 # Copper Tree universe: development source pack
-Version 0.1 | 2 November 2026 | Working internal project name
+Version 0.3 | 9 November 2026 | Working internal project name
 
 Start with PROJECT_STATE.md, then bible/WORLD_BIBLE.md and decisions/DECISIONS.md.
-This pack records the development conversation. No book manuscript or print-ready book has yet been produced. Canonical repository: https://github.com/EmotiveImpact/Coppertree (public, as directed by the owner).
+This repository records the Copper Tree world, the first three story manuscripts and their production sources. See PROJECT_STATE.md for the current artwork and PDF completion status. Canonical repository: https://github.com/EmotiveImpact/Coppertree (public, as directed by the owner).
 
 ## Source of truth
 - User-confirmed decisions take precedence over proposals.
@@ -18,9 +18,29 @@ EmotiveImpact/Coppertree is public with the owner’s explicit approval. The nam
 
 ## Contents
 bible/: creative foundations, characters and places
-books/: proposed series and first-book outline
+books/: complete story manuscripts, series plan and collection continuity
 graph/: machine-readable information graph
 decisions/: decisions, proposals and unresolved questions
-production/: continuity and delivery workflow
+production/: continuity workflow and reproducible PDF builder
 assets/: artwork provenance and reference links
 PROJECT_STATE.md: current position and next actions
+
+## First three books
+
+| Book | Manuscript |
+|---|---|
+| The Map Beneath the Sunflowers | [Book 1](books/book1.json) |
+| Zuri and the Footprints After Rain | [Book 2](books/book2.json) |
+| Kofi and the Almost-Perfect Machine | [Book 3](books/book3.json) |
+
+Read [collection continuity](books/COLLECTION_CONTINUITY.md) before writing further adventures. The existing neighbourhood map is a rough reference awaiting redesign.
+
+To rebuild the PDFs after all scene assets are present, run python3 production/build_books.py. The builder requires Python, ReportLab, Pillow and DejaVu fonts. It reads the twelve story sections and six colouring scenes for each book and writes A4 PDFs under output/pdf/.
+
+## Printable editions
+
+- [The Map Beneath the Sunflowers](output/pdf/Copper-Tree-Book-1.pdf)
+- [Zuri and the Footprints After Rain](output/pdf/Copper-Tree-Book-2.pdf)
+- [Kofi and the Almost-Perfect Machine](output/pdf/Copper-Tree-Book-3.pdf)
+
+Each first printable edition has 22 A4 pages. Physical print proof is pending.

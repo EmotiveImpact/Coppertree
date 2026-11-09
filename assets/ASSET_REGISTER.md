@@ -15,3 +15,21 @@ Created 9 November 2026. See [the visual reference index](visual-reference/v0.1/
 ## Planned assets
 
 Supporting cast concepts, clubhouse interior, first book sample spread, final line art and cover.
+
+## First collection, 9 November 2026
+
+Eighteen original AI-generated black-and-white colouring illustrations are preserved under assets/books/book1/, book2/ and book3/, each numbered scene1.png through scene6.png. They use the original cast concept as their visual reference. Book 1 scene 3 and Book 2 scene 3 were revised during visual review.
+
+Three complete first printable editions are preserved under output/pdf/Copper-Tree-Book-1.pdf, Copper-Tree-Book-2.pdf and Copper-Tree-Book-3.pdf. Each contains 22 A4 pages. These exports were reviewed for text completeness, page count and visual layout. A physical print proof remains pending.
+
+The source manuscripts include individual illustration briefs. production/build_books.py reproduces the PDFs from manuscripts and scene assets. The rough neighbourhood map is excluded from the books.
+
+## Clean-style rebuild batch01
+
+Six new scene drafts and the earlier tin discovery are stored in assets/rebuild/. References include original-cast.png and approved-zuri.png. See production/ART_BATCH_01.json for dimensions, status and required corrections. Superseded A4 books above are historical and do not satisfy the rebuild brief.
+
+## Anatomy correction batch02
+
+Zuri page-06-zuri-pawprints-v2.png and Kofi page-05-kofi-plans-v2.png are revised candidates, replacing the corresponding v1 anatomy. See production/ANATOMY_REVIEW_02.md. Earlier files retained as rejected versions.
+
+Book1 Nia page03, Eli page04 and Amara page05 also have v2 grip corrections. Intermediate rejected edits are not selected production assets.
