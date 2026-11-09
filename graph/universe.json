@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1",
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "project_name": "Copper Tree (working)",
   "status_note": "A confirmed name does not confirm every attribute or relationship. Graph events are proposed plot events, not published canon.",
   "nodes": [
@@ -220,6 +220,55 @@
       "label": "Neighbourhood celebrates",
       "status": "provisional",
       "sequence": 5
+    },
+    {
+      "id": "asset:visual-v01-amara",
+      "type": "artwork",
+      "label": "Amara visual reference v0.1",
+      "status": "existing",
+      "path": "assets/visual-reference/v0.1/amara.webp"
+    },
+    {
+      "id": "asset:visual-v01-kofi",
+      "type": "artwork",
+      "label": "Kofi visual reference v0.1",
+      "status": "existing",
+      "path": "assets/visual-reference/v0.1/kofi.webp"
+    },
+    {
+      "id": "asset:visual-v01-zuri",
+      "type": "artwork",
+      "label": "Zuri visual reference v0.1",
+      "status": "existing",
+      "path": "assets/visual-reference/v0.1/zuri.webp"
+    },
+    {
+      "id": "asset:visual-v01-eli",
+      "type": "artwork",
+      "label": "Eli visual reference v0.1",
+      "status": "existing",
+      "path": "assets/visual-reference/v0.1/eli.webp"
+    },
+    {
+      "id": "asset:visual-v01-nia",
+      "type": "artwork",
+      "label": "Nia visual reference v0.1",
+      "status": "existing",
+      "path": "assets/visual-reference/v0.1/nia.webp"
+    },
+    {
+      "id": "asset:visual-v01-tayo",
+      "type": "artwork",
+      "label": "Tayo visual reference v0.1",
+      "status": "existing",
+      "path": "assets/visual-reference/v0.1/tayo.webp"
+    },
+    {
+      "id": "asset:visual-v01-neighbourhood",
+      "type": "artwork",
+      "label": "Neighbourhood visual reference v0.1",
+      "status": "existing",
+      "path": "assets/visual-reference/v0.1/neighbourhood.webp"
     }
   ],
   "edges": [
@@ -443,6 +492,48 @@
       "source": "event:celebration",
       "relation": "occurs_in",
       "target": "book:map",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:visual-v01-amara",
+      "relation": "depicts",
+      "target": "char:amara",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:visual-v01-kofi",
+      "relation": "depicts",
+      "target": "char:kofi",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:visual-v01-zuri",
+      "relation": "depicts",
+      "target": "char:zuri",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:visual-v01-eli",
+      "relation": "depicts",
+      "target": "char:eli",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:visual-v01-nia",
+      "relation": "depicts",
+      "target": "char:nia",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:visual-v01-tayo",
+      "relation": "depicts",
+      "target": "char:tayo",
+      "status": "provisional"
+    },
+    {
+      "source": "asset:visual-v01-neighbourhood",
+      "relation": "depicts",
+      "target": "place:neighbourhood",
       "status": "provisional"
     }
   ]

@@ -23,4 +23,4 @@ Books, rainy-day refuge and local-history cupboard.
 ## The Rec [place:rec]
 Football, scooters and puddles.
 
-The Lookout must not be treated as an established clubhouse before its creation in book 1. Exact travel routes and the street map are not yet designed.
+The Lookout must not be treated as an established clubhouse before its creation in book 1. See the [proposed neighbourhood map and route notes](../assets/visual-reference/v0.1/README.md#neighbourhood-map). Exact distances and addresses remain open.
