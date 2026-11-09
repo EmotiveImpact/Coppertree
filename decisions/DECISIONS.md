@@ -1,5 +1,5 @@
 # Decision register
-Source: development conversation through 2 November 2026. Statuses are intentionally conservative.
+Source: development conversation through 9 November 2026. Statuses are intentionally conservative.
 
 | ID | Status | Decision or proposal | Evidence |
 |---|---|---|---|
@@ -16,6 +16,16 @@ Source: development conversation through 2 November 2026. Statuses are intention
 | D011 | open | Final series title | The Wonder Crew is a working title only |
 | D012 | requested | Durable continuity records and information graph | Latest user request |
 | D013 | confirmed | Use EmotiveImpact/Coppertree and leave it public | Explicit user direction after visibility was explained |
+
+## 9 November 2026 production decisions
+
+| ID | Status | Decision or proposal | Evidence |
+|---|---|---|---|
+| D014 | confirmed | Existing character designs are the visual foundation | User said the characters are good and already loves them |
+| D015 | confirmed | Existing neighbourhood map is a rough reference requiring redesign | User described it as squashed and rushed |
+| D016 | confirmed | Produce three complete story and colouring books, using earlier repository work | Explicit user request to get to work and deliver three books |
+| D017 | production choice | First collection comprises the garden mystery, Zuri's footprints adventure and Kofi's invention story | Existing series order and lead-agent selection |
+| D018 | production choice | A4 home-printing format with complete stories, colouring scenes and drawing activities | Reversible production format selected for this edition |
 
 ## Change procedure
 Record date, exact change, user authority, affected IDs and affected artwork/books. Preserve replaced decisions as superseded rather than deleting their history. Do not use working titles as cleared commercial names.

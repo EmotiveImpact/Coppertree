@@ -15,3 +15,11 @@ Created 9 November 2026. See [the visual reference index](visual-reference/v0.1/
 ## Planned assets
 
 Supporting cast concepts, clubhouse interior, first book sample spread, final line art and cover.
+
+## First collection, 9 November 2026
+
+Eighteen original AI-generated black-and-white colouring illustrations are preserved under assets/books/book1/, book2/ and book3/, each numbered scene1.png through scene6.png. They use the original cast concept as their visual reference. Book 1 scene 3 and Book 2 scene 3 were revised during visual review.
+
+Three complete first printable editions are preserved under output/pdf/Copper-Tree-Book-1.pdf, Copper-Tree-Book-2.pdf and Copper-Tree-Book-3.pdf. Each contains 22 A4 pages. These exports were reviewed for text completeness, page count and visual layout. A physical print proof remains pending.
+
+The source manuscripts include individual illustration briefs. production/build_books.py reproduces the PDFs from manuscripts and scene assets. The rough neighbourhood map is excluded from the books.

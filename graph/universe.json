@@ -2,43 +2,55 @@
   "schema_version": "0.1",
   "updated": "2026-11-09",
   "project_name": "Copper Tree (working)",
-  "status_note": "A confirmed name does not confirm every attribute or relationship. Graph events are proposed plot events, not published canon.",
+  "status_note": "Character visual direction approved by user. Manuscript details are authored drafts. The neighbourhood map remains a rough reference requiring redesign. Development status is distinct from story chronology.",
   "nodes": [
     {
       "id": "char:amara",
       "type": "character",
       "label": "Amara",
-      "status": "provisional"
+      "status": "provisional",
+      "visual_status": "approved_direction",
+      "decision": "D014"
     },
     {
       "id": "char:kofi",
       "type": "character",
       "label": "Kofi",
-      "status": "provisional"
+      "status": "provisional",
+      "visual_status": "approved_direction",
+      "decision": "D014"
     },
     {
       "id": "char:zuri",
       "type": "character",
       "label": "Zuri",
-      "status": "confirmed_name"
+      "status": "confirmed_name",
+      "visual_status": "approved_direction",
+      "decision": "D014"
     },
     {
       "id": "char:eli",
       "type": "character",
       "label": "Eli",
-      "status": "provisional"
+      "status": "provisional",
+      "visual_status": "approved_direction",
+      "decision": "D014"
     },
     {
       "id": "char:nia",
       "type": "character",
       "label": "Nia",
-      "status": "provisional"
+      "status": "provisional",
+      "visual_status": "approved_direction",
+      "decision": "D014"
     },
     {
       "id": "char:tayo",
       "type": "character",
       "label": "Tayo",
-      "status": "provisional"
+      "status": "provisional",
+      "visual_status": "approved_direction",
+      "decision": "D014"
     },
     {
       "id": "place:neighbourhood",
@@ -93,19 +105,25 @@
       "id": "book:map",
       "type": "book",
       "label": "The Map Beneath the Sunflowers",
-      "status": "provisional"
+      "status": "complete_first_printable_edition",
+      "source": "books/book1.json",
+      "reading_order": 1
     },
     {
       "id": "book:zuri",
       "type": "book",
       "label": "Zuri and the Footprints After Rain",
-      "status": "provisional"
+      "status": "complete_first_printable_edition",
+      "source": "books/book2.json",
+      "reading_order": 2
     },
     {
       "id": "book:kofi",
       "type": "book",
       "label": "Kofi and the Almost-Perfect Machine",
-      "status": "provisional"
+      "status": "complete_first_printable_edition",
+      "source": "books/book3.json",
+      "reading_order": 3
     },
     {
       "id": "book:amara",
@@ -267,8 +285,235 @@
       "id": "asset:visual-v01-neighbourhood",
       "type": "artwork",
       "label": "Neighbourhood visual reference v0.1",
+      "status": "rough_reference_requires_redesign",
+      "path": "assets/visual-reference/v0.1/neighbourhood.webp",
+      "decision": "D015"
+    },
+    {
+      "id": "object:wildlife-camera",
+      "type": "object",
+      "label": "Garden wildlife camera",
+      "status": "authored_draft"
+    },
+    {
+      "id": "object:wildlife-notebook",
+      "type": "object",
+      "label": "Wildlife notebook",
+      "status": "authored_draft"
+    },
+    {
+      "id": "animal:fox",
+      "type": "animal",
+      "label": "Garden fox",
+      "status": "authored_draft"
+    },
+    {
+      "id": "object:pencil-sorter",
+      "type": "object",
+      "label": "Almost-Perfect Pencil Machine",
+      "status": "authored_draft"
+    },
+    {
+      "id": "object:kofi-first-plan",
+      "type": "object",
+      "label": "Kofi’s first sorter drawing",
+      "status": "authored_draft"
+    },
+    {
+      "id": "event:fox-recording",
+      "type": "story_event",
+      "label": "Zuri sees the fox recording",
+      "status": "authored_draft",
+      "sequence": 1
+    },
+    {
+      "id": "event:zuri-revises",
+      "type": "story_event",
+      "label": "Zuri revises her first guess",
+      "status": "authored_draft",
+      "sequence": 2
+    },
+    {
+      "id": "event:sorter-tests",
+      "type": "story_event",
+      "label": "Friends test Kofi’s sorter",
+      "status": "authored_draft",
+      "sequence": 1
+    },
+    {
+      "id": "event:sorter-ready",
+      "type": "story_event",
+      "label": "Kofi shares the improved sorter",
+      "status": "authored_draft",
+      "sequence": 2
+    },
+    {
+      "id": "asset:book1-scene1",
+      "type": "artwork",
+      "label": "Book 1 colouring scene 1",
       "status": "existing",
-      "path": "assets/visual-reference/v0.1/neighbourhood.webp"
+      "path": "assets/books/book1/scene1.png"
+    },
+    {
+      "id": "asset:book1-scene2",
+      "type": "artwork",
+      "label": "Book 1 colouring scene 2",
+      "status": "existing",
+      "path": "assets/books/book1/scene2.png"
+    },
+    {
+      "id": "asset:book1-scene3",
+      "type": "artwork",
+      "label": "Book 1 colouring scene 3",
+      "status": "existing",
+      "path": "assets/books/book1/scene3.png"
+    },
+    {
+      "id": "asset:book1-scene4",
+      "type": "artwork",
+      "label": "Book 1 colouring scene 4",
+      "status": "existing",
+      "path": "assets/books/book1/scene4.png"
+    },
+    {
+      "id": "asset:book1-scene5",
+      "type": "artwork",
+      "label": "Book 1 colouring scene 5",
+      "status": "existing",
+      "path": "assets/books/book1/scene5.png"
+    },
+    {
+      "id": "asset:book1-scene6",
+      "type": "artwork",
+      "label": "Book 1 colouring scene 6",
+      "status": "existing",
+      "path": "assets/books/book1/scene6.png"
+    },
+    {
+      "id": "asset:book1-manuscript",
+      "type": "manuscript",
+      "label": "Book 1 manuscript",
+      "status": "existing",
+      "path": "books/book1.json"
+    },
+    {
+      "id": "asset:book1-pdf",
+      "type": "publication_file",
+      "label": "Book 1 printable edition",
+      "status": "existing",
+      "path": "output/pdf/Copper-Tree-Book-1.pdf"
+    },
+    {
+      "id": "asset:book2-scene1",
+      "type": "artwork",
+      "label": "Book 2 colouring scene 1",
+      "status": "existing",
+      "path": "assets/books/book2/scene1.png"
+    },
+    {
+      "id": "asset:book2-scene2",
+      "type": "artwork",
+      "label": "Book 2 colouring scene 2",
+      "status": "existing",
+      "path": "assets/books/book2/scene2.png"
+    },
+    {
+      "id": "asset:book2-scene3",
+      "type": "artwork",
+      "label": "Book 2 colouring scene 3",
+      "status": "existing",
+      "path": "assets/books/book2/scene3.png"
+    },
+    {
+      "id": "asset:book2-scene4",
+      "type": "artwork",
+      "label": "Book 2 colouring scene 4",
+      "status": "existing",
+      "path": "assets/books/book2/scene4.png"
+    },
+    {
+      "id": "asset:book2-scene5",
+      "type": "artwork",
+      "label": "Book 2 colouring scene 5",
+      "status": "existing",
+      "path": "assets/books/book2/scene5.png"
+    },
+    {
+      "id": "asset:book2-scene6",
+      "type": "artwork",
+      "label": "Book 2 colouring scene 6",
+      "status": "existing",
+      "path": "assets/books/book2/scene6.png"
+    },
+    {
+      "id": "asset:book2-manuscript",
+      "type": "manuscript",
+      "label": "Book 2 manuscript",
+      "status": "existing",
+      "path": "books/book2.json"
+    },
+    {
+      "id": "asset:book2-pdf",
+      "type": "publication_file",
+      "label": "Book 2 printable edition",
+      "status": "existing",
+      "path": "output/pdf/Copper-Tree-Book-2.pdf"
+    },
+    {
+      "id": "asset:book3-scene1",
+      "type": "artwork",
+      "label": "Book 3 colouring scene 1",
+      "status": "existing",
+      "path": "assets/books/book3/scene1.png"
+    },
+    {
+      "id": "asset:book3-scene2",
+      "type": "artwork",
+      "label": "Book 3 colouring scene 2",
+      "status": "existing",
+      "path": "assets/books/book3/scene2.png"
+    },
+    {
+      "id": "asset:book3-scene3",
+      "type": "artwork",
+      "label": "Book 3 colouring scene 3",
+      "status": "existing",
+      "path": "assets/books/book3/scene3.png"
+    },
+    {
+      "id": "asset:book3-scene4",
+      "type": "artwork",
+      "label": "Book 3 colouring scene 4",
+      "status": "existing",
+      "path": "assets/books/book3/scene4.png"
+    },
+    {
+      "id": "asset:book3-scene5",
+      "type": "artwork",
+      "label": "Book 3 colouring scene 5",
+      "status": "existing",
+      "path": "assets/books/book3/scene5.png"
+    },
+    {
+      "id": "asset:book3-scene6",
+      "type": "artwork",
+      "label": "Book 3 colouring scene 6",
+      "status": "existing",
+      "path": "assets/books/book3/scene6.png"
+    },
+    {
+      "id": "asset:book3-manuscript",
+      "type": "manuscript",
+      "label": "Book 3 manuscript",
+      "status": "existing",
+      "path": "books/book3.json"
+    },
+    {
+      "id": "asset:book3-pdf",
+      "type": "publication_file",
+      "label": "Book 3 printable edition",
+      "status": "existing",
+      "path": "output/pdf/Copper-Tree-Book-3.pdf"
     }
   ],
   "edges": [
@@ -535,6 +780,216 @@
       "relation": "depicts",
       "target": "place:neighbourhood",
       "status": "provisional"
+    },
+    {
+      "source": "object:wildlife-camera",
+      "relation": "introduced_in",
+      "target": "book:zuri",
+      "status": "authored_draft"
+    },
+    {
+      "source": "object:wildlife-notebook",
+      "relation": "introduced_in",
+      "target": "book:zuri",
+      "status": "authored_draft"
+    },
+    {
+      "source": "animal:fox",
+      "relation": "introduced_in",
+      "target": "book:zuri",
+      "status": "authored_draft"
+    },
+    {
+      "source": "object:pencil-sorter",
+      "relation": "introduced_in",
+      "target": "book:kofi",
+      "status": "authored_draft"
+    },
+    {
+      "source": "object:kofi-first-plan",
+      "relation": "introduced_in",
+      "target": "book:kofi",
+      "status": "authored_draft"
+    },
+    {
+      "source": "event:fox-recording",
+      "relation": "occurs_in",
+      "target": "book:zuri",
+      "status": "authored_draft"
+    },
+    {
+      "source": "event:zuri-revises",
+      "relation": "occurs_in",
+      "target": "book:zuri",
+      "status": "authored_draft"
+    },
+    {
+      "source": "event:sorter-tests",
+      "relation": "occurs_in",
+      "target": "book:kofi",
+      "status": "authored_draft"
+    },
+    {
+      "source": "event:sorter-ready",
+      "relation": "occurs_in",
+      "target": "book:kofi",
+      "status": "authored_draft"
+    },
+    {
+      "source": "book:zuri",
+      "relation": "set_after",
+      "target": "book:map",
+      "status": "authored_draft"
+    },
+    {
+      "source": "book:kofi",
+      "relation": "set_after",
+      "target": "book:map",
+      "status": "authored_draft"
+    },
+    {
+      "source": "asset:book1-scene1",
+      "relation": "illustrates",
+      "target": "book:map",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book1-scene2",
+      "relation": "illustrates",
+      "target": "book:map",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book1-scene3",
+      "relation": "illustrates",
+      "target": "book:map",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book1-scene4",
+      "relation": "illustrates",
+      "target": "book:map",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book1-scene5",
+      "relation": "illustrates",
+      "target": "book:map",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book1-scene6",
+      "relation": "illustrates",
+      "target": "book:map",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book1-manuscript",
+      "relation": "edition_of",
+      "target": "book:map",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book1-pdf",
+      "relation": "edition_of",
+      "target": "book:map",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book2-scene1",
+      "relation": "illustrates",
+      "target": "book:zuri",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book2-scene2",
+      "relation": "illustrates",
+      "target": "book:zuri",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book2-scene3",
+      "relation": "illustrates",
+      "target": "book:zuri",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book2-scene4",
+      "relation": "illustrates",
+      "target": "book:zuri",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book2-scene5",
+      "relation": "illustrates",
+      "target": "book:zuri",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book2-scene6",
+      "relation": "illustrates",
+      "target": "book:zuri",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book2-manuscript",
+      "relation": "edition_of",
+      "target": "book:zuri",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book2-pdf",
+      "relation": "edition_of",
+      "target": "book:zuri",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book3-scene1",
+      "relation": "illustrates",
+      "target": "book:kofi",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book3-scene2",
+      "relation": "illustrates",
+      "target": "book:kofi",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book3-scene3",
+      "relation": "illustrates",
+      "target": "book:kofi",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book3-scene4",
+      "relation": "illustrates",
+      "target": "book:kofi",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book3-scene5",
+      "relation": "illustrates",
+      "target": "book:kofi",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book3-scene6",
+      "relation": "illustrates",
+      "target": "book:kofi",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book3-manuscript",
+      "relation": "edition_of",
+      "target": "book:kofi",
+      "status": "authored"
+    },
+    {
+      "source": "asset:book3-pdf",
+      "relation": "edition_of",
+      "target": "book:kofi",
+      "status": "authored"
     }
   ]
 }
