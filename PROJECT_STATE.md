@@ -1,3 +1,11 @@
+# Production checkpoint, 9 November 2026
+
+Six new clean-style scene drafts plus the earlier tin-discovery scene are preserved in assets/rebuild/. Original cast and approved Zuri references are now included. This is not a completed revised book delivery. Five new scenes have proposed numbered placements; Tayo telescope is a supplemental draft requiring wardrobe correction and is not part of the reviewed narrative.
+
+production/rebuild_content.json supersedes the earlier numbered CONTENT_MANIFESTS.md: 150 specified content pages with 90 scene briefs and 24 puzzle specifications/solutions. See CONTENT_REVIEW.md for manuscript continuity corrections. These are specifications, not rendered pages.
+
+Print readiness is unresolved: current native scene widths are about1102px, about147ppi at7.5 inches. Do not label these300dpi or KDP-ready. Remaining illustrations, scene corrections, rendered puzzles, interior layout, covers, KDP preview and physical proof remain outstanding. See production/ART_BATCH_01.json for per-asset dimensions and review notes.
+
 # Active rebuild, 9 November 2026
 
 The existing 22-page PDFs are superseded drafts. The user rejected the limited colouring content and substantial visual drift from the original coloured character designs. The current target is three books of 50 content pages each, with 30 dedicated colouring scenes plus puzzles, illustrated affirmations and writing pages. Covers and blank backs are additional. KDP paperback is the primary destination; Canva preparation is explicitly excluded. See production/MASTER_REBUILD_PLAN.md for the authoritative work sequence and acceptance checklist. Corrected line-art approval is required before full-scale illustration. Revised books are not complete; KDP preview and physical proofs remain pending.

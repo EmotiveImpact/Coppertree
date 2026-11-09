@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-09",
+  "generation": "Built-in image generation; original cast identity and approved Zuri line rendering references.",
+  "assets": [
+    {
+      "path": "assets/rebuild/book1/page-03-nia-watering.png",
+      "width": 1103,
+      "height": 1426,
+      "status": "visual_draft_print_check_pending",
+      "effective_ppi_at_7_5in_width": 147.1
+    },
+    {
+      "path": "assets/rebuild/book1/page-04-eli-pots.png",
+      "width": 1103,
+      "height": 1426,
+      "status": "visual_draft_print_check_pending",
+      "effective_ppi_at_7_5in_width": 147.1
+    },
+    {
+      "path": "assets/rebuild/book1/page-05-amara-sketches.png",
+      "width": 1102,
+      "height": 1427,
+      "status": "visual_draft_print_check_pending",
+      "effective_ppi_at_7_5in_width": 146.9
+    },
+    {
+      "path": "assets/rebuild/book1/page-07-tin-discovery.png",
+      "width": 1246,
+      "height": 1263,
+      "status": "visual_draft_print_check_pending",
+      "effective_ppi_at_7_5in_width": 166.1
+    },
+    {
+      "path": "assets/rebuild/book1/supplement-tayo-telescope-draft.png",
+      "width": 1102,
+      "height": 1427,
+      "status": "visual_draft_print_check_pending",
+      "effective_ppi_at_7_5in_width": 146.9
+    },
+    {
+      "path": "assets/rebuild/book2/page-06-zuri-pawprints.png",
+      "width": 1102,
+      "height": 1427,
+      "status": "visual_draft_print_check_pending",
+      "effective_ppi_at_7_5in_width": 146.9
+    },
+    {
+      "path": "assets/rebuild/book3/page-05-kofi-plans.png",
+      "width": 1102,
+      "height": 1427,
+      "status": "visual_draft_print_check_pending",
+      "effective_ppi_at_7_5in_width": 146.9
+    },
+    {
+      "path": "assets/rebuild/references/approved-zuri.png",
+      "width": 1070,
+      "height": 1470,
+      "status": "reference",
+      "effective_ppi_at_7_5in_width": 142.7
+    },
+    {
+      "path": "assets/rebuild/references/original-cast.png",
+      "width": 1536,
+      "height": 1024,
+      "status": "reference",
+      "effective_ppi_at_7_5in_width": 204.8
+    }
+  ],
+  "review_notes": [
+    "Six new scenes generated; Kofi stippling removed by targeted edit.",
+    "Tayo telescope remains supplemental draft: planet motif migrated onto bib; attempted correction unsuccessful. Not counted as a numbered book page because revised continuity excludes telescope.",
+    "Zuri footprints image includes plant in tipped pot whereas revised page brief specifies empty pot; reconcile before final acceptance.",
+    "Kofi planning image workshop setting must reconcile with page5 idea scene before final placement.",
+    "Native source widths around1102px give about147ppi at7.5in. These are NOT claimed300dpi print-ready art. No artificial upsampling performed.",
+    "Initial tin scene is near-square and must be placed without stretching.",
+    "Hair silhouettes, facial expression and colourable spaces visually inspected. Native-size and final-page print review remain outstanding."
+  ]
+}

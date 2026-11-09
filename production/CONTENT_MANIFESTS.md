@@ -1,3 +1,5 @@
+> Superseded production specification: use rebuild_content.json and CONTENT_REVIEW.md for corrected narrative continuity.
+
 # Numbered content manifests
 
 9 November 2026. Production specifications, not completed pages. All artwork awaits approval of the corrected treatment. Each book has exactly 50 content pages; print pagination with blank reverses is separate. Captions and prompts will be typeset, not embedded by image generation. Puzzles require constructed, verified solutions before layout. Affirmation pages include a complete illustration; writing pages contain ruled space and a modest illustrated border, with optional adult scribing.

@@ -23,3 +23,7 @@ Eighteen original AI-generated black-and-white colouring illustrations are prese
 Three complete first printable editions are preserved under output/pdf/Copper-Tree-Book-1.pdf, Copper-Tree-Book-2.pdf and Copper-Tree-Book-3.pdf. Each contains 22 A4 pages. These exports were reviewed for text completeness, page count and visual layout. A physical print proof remains pending.
 
 The source manuscripts include individual illustration briefs. production/build_books.py reproduces the PDFs from manuscripts and scene assets. The rough neighbourhood map is excluded from the books.
+
+## Clean-style rebuild batch01
+
+Six new scene drafts and the earlier tin discovery are stored in assets/rebuild/. References include original-cast.png and approved-zuri.png. See production/ART_BATCH_01.json for dimensions, status and required corrections. Superseded A4 books above are historical and do not satisfy the rebuild brief.
