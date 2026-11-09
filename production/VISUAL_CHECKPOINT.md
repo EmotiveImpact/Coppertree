@@ -15,3 +15,9 @@ Independent work completed: production/CONTENT_MANIFESTS.md specifies all 150 co
 The user supports the proposed line-art direction but requests removal of little grey marks and unnecessary small lines. Refine before final approval. Preserve character detail while simplifying hair microtexture, excess clothing folds, shoelace/tread clutter and reflection marks. Use clean black outlines and open white colouring regions.
 
 The user suggested a reusable style/skill, then explicitly instructed: perfect the style first. Do not create or freeze that skill yet. Validate the cleaned character, then its behaviour in a scene and across the remaining cast before codifying it. Full production style approval remains pending.
+
+## Approved cleaned treatment
+
+The user approved the second, cleaned standalone Zuri sample: 'Yeah, that’s it. That works.' This supersedes the pending decision above for line-art direction. The approved treatment has open white colourable regions, clear moderately bold contours, simplified internal details, no grey shading, recognisable braid/bead shapes and preserved character identity. Do not revert to the initial book's generic simplified faces or the first proposal's dense microtexture.
+
+The approved sample was generated in the active conversation on 9 November 2026. It is not yet committed as binary artwork. Next: apply this direction to a full garden scene with the original cast reference, check likeness and print-scale readability, and document the reusable production standard. This approval authorises applying the treatment; it does not establish that the revised books or KDP exports are complete.
