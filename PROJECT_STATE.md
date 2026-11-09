@@ -1,3 +1,7 @@
+## Latest anatomy corrections
+
+Two v2 scenes now correct the user-reported Zuri hand and Kofi seated-torso faults. Both passed independent visual anatomy review as drafts. See production/ANATOMY_REVIEW_02.md. Earlier batch is not automatically accepted. Print resolution and final manuscript/layout checks remain open.
+
 # Production checkpoint, 9 November 2026
 
 Six new clean-style scene drafts plus the earlier tin-discovery scene are preserved in assets/rebuild/. Original cast and approved Zuri references are now included. This is not a completed revised book delivery. Five new scenes have proposed numbered placements; Tayo telescope is a supplemental draft requiring wardrobe correction and is not part of the reviewed narrative.

@@ -27,3 +27,9 @@ The source manuscripts include individual illustration briefs. production/build_
 ## Clean-style rebuild batch01
 
 Six new scene drafts and the earlier tin discovery are stored in assets/rebuild/. References include original-cast.png and approved-zuri.png. See production/ART_BATCH_01.json for dimensions, status and required corrections. Superseded A4 books above are historical and do not satisfy the rebuild brief.
+
+## Anatomy correction batch02
+
+Zuri page-06-zuri-pawprints-v2.png and Kofi page-05-kofi-plans-v2.png are revised candidates, replacing the corresponding v1 anatomy. See production/ANATOMY_REVIEW_02.md. Earlier files retained as rejected versions.
+
+Book1 Nia page03, Eli page04 and Amara page05 also have v2 grip corrections. Intermediate rejected edits are not selected production assets.
