@@ -1,3 +1,9 @@
+# Active rebuild, 9 November 2026
+
+The existing 22-page PDFs are superseded drafts. The user rejected the limited colouring content and substantial visual drift from the original coloured character designs. The current target is three books of 50 content pages each, with 30 dedicated colouring scenes plus puzzles, illustrated affirmations and writing pages. Covers and blank backs are additional. KDP paperback is the primary destination; Canva preparation is explicitly excluded. See production/MASTER_REBUILD_PLAN.md for the authoritative work sequence and acceptance checklist. Corrected line-art approval is required before full-scale illustration. Revised books are not complete; KDP preview and physical proofs remain pending.
+
+---
+
 # Current project state
 Updated 9 November 2026. Version 0.3.
 
