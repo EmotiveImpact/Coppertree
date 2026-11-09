@@ -1,5 +1,5 @@
 # Current project state
-Updated: 2 November 2026. Version 0.1.
+Updated: 9 November 2026. Version 0.2.
 
 ## Confirmed by the user
 - Create characters and a colouring-book world aimed at Black children.
@@ -21,16 +21,16 @@ This repository becomes the canonical source for subsequent development. The sav
 ## Existing deliverables
 - One full-colour six-character concept image, registered in assets/ASSET_REGISTER.md.
 - This development pack, including a starter information graph.
+- [Visual references v0.1](assets/visual-reference/v0.1/README.md) with six individual sheets and a proposed pre-Book 1 neighbourhood map.
 
 ## Not completed
 Final series name; final character sheets; full manuscripts; colouring interiors; publishing layouts; cover; proof copy; brand clearance.
 
 ## Next production steps
 1. Verify and maintain the source records in https://github.com/EmotiveImpact/Coppertree.
-2. Develop a visual neighbourhood map and expanded reference sheets using the existing cast image.
-3. Review the cast, age band and setting as a single creative package.
-4. Draft the first book's complete page plan and sample story/colouring spread.
-5. Check continuity, reading difficulty, visual consistency and usable colouring spaces before producing all interiors.
+2. Review the visual references, cast, age band and setting as a single creative package.
+3. Draft the first book's complete page plan and sample story/colouring spread using the pre-Book 1 map.
+4. Check continuity, reading difficulty, visual consistency and usable colouring spaces before producing all interiors.
 
 ## Resume instruction
 Read README.md, this file, decisions/DECISIONS.md and the relevant bible/book records before continuing. Retrieve the registered artwork when making visual edits. Report actual completed work, not planned output. No activity continues between sessions unless explicitly scheduled through an available service.
